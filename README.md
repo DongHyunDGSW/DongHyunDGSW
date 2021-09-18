@@ -14,8 +14,8 @@
 
 
 
-#### 🔭 I’m currently working on B. ( Project )
-> - <a href='https://github.com/DGSWDongHyun/B_'><img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=Github&logoColor=white"></a>
+#### 🔭 I’m currently working on SYT_ ( Project )
+> - <a href='https://github.com/DongHyunDGSW/SYT_'><img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=Github&logoColor=white"></a>
 
 #### 🌱 I’m currently learning
 > - Architectureing ( CleanArchitecture , MVVM )
