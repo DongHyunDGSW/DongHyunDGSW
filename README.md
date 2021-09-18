@@ -18,10 +18,8 @@
 > - <a href='https://github.com/DGSWDongHyun/B_'><img src="https://img.shields.io/badge/Github-181717?&style=for-the-badge&logo=Github&logoColor=white"></a>
 
 #### 🌱 I’m currently learning
-> - RxJava2
-> - Dagger2
-> - Dagger Hilt
-> - CleanArchitecture with MVVM
+> - Architectureing ( CleanArchitecture , MVVM )
+> - MotionLayout
 
 #### 💻 You can see my stacks on my Portfolio
 > - <a href='https://www.notion.so/PORTFOLIO-39d18bbdc7df42a49047a3b93f17d126'><img src="https://img.shields.io/badge/Portfolio-000000?&style=for-the-badge&logo=Notion&logoColor=white"></a>
