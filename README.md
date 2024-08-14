@@ -13,14 +13,15 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bucket-0224&theme=transparent" />
 </a>
 
-#### I'm already on my stack.
-<a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"></a>
-
-#### My using Framework.
-<a href='#'><img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Flutter-02569B?&style=for-the-badge&logo=Flutter&logoColor=white"></a>
+#### I'm already on my stack :
+<a href='#'><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Dart-0175C2?&style=for-the-badge&logo=Dart&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"></a> 
 
 
-#### 📫 How to reach me 
+#### My using Framework :
+<a href='#'><img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/Flutter-02569B?&style=for-the-badge&logo=Flutter&logoColor=white"></a> <a href='#'><img src="https://img.shields.io/badge/express-000000?&style=for-the-badge&logo=Express&logoColor=white"></a>
+
+
+#### 📫 How to reach me :
 > <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
 
 <a href="https://github.com/bucket-0224">
