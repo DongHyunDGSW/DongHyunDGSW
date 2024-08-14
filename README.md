@@ -21,8 +21,8 @@
 
 
 #### 📫 How to reach me 
->- <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
+> <a href='#'><img src="https://img.shields.io/badge/ydh665566@naver.com-005FF9?&style=for-the-badge&logo=Mail.ru&logoColor=white"></a>
 
-  <a href="https://github.com/bucket-0224">
-    <img src="https://komarev.com/ghpvc/?username=bucket-0224&color=blue&style=flat)" />
-  </a>
+<a href="https://github.com/bucket-0224">
+  <img src="https://komarev.com/ghpvc/?username=bucket-0224&color=blue&style=flat)" />
+</a>
